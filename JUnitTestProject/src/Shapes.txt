@@ -1,0 +1,6 @@
+Rectangle (5,10) 35 15
+Circle (10,10) 2
+Rectangle (20,30) 12 20
+Square (1,1) 14
+Circle (25,30) 5
+Circle (20,12) 10
